@@ -1,0 +1,13 @@
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Form1.resources
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\Yogesh\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
+D:\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.AssemblyReference.cache
+D:\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+D:\SimpleCalc\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
